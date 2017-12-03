@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bingo Chat</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="action_signout">Signout</string>
+    <string name="detail_location">Lorem Ispum</string>
+</resources>

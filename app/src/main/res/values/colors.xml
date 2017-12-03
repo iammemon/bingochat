@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D4865</color>
+    <color name="colorPrimaryDark">#213C59</color>
+    <color name="colorAccent">#3F5171</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="material_deep_purple_50">#EDE7F6</color>
+    <color name="material_deep_purple_500">#673AB7</color>
+    <color name="material_deep_purple_700">#512DA8</color>
+
+    <color name="material_green_50">#E8F5E9</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_700">#388E3C</color>
+    <color name="material_green_300">#AED581</color>
+
+    <color name="light_indigo">#000080</color>
+    <color name="dark_indigo">#191970</color>
+    <color name="blue">#00B0FF</color>
+
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
+
+    <color name="material_gray_300">#E0E0E0</color>
+    <color name="material_gray_500">#9e9e9e</color>
+
+    <color name="app_background">#2D3C52</color>
+
+
+</resources>

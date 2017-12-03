@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Canada</item>
+
+    </string-array>array>
+    <string-array name="item_desc">
+        <item>Dummy Text</item>
+    </string-array>
+    <string-array name="places_picture">
+
+        <item>Lorem Ispum</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>ABCDEFGHI</item>
+    </string-array>
+</resources>

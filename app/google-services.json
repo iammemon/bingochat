@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "935687268015",
+    "firebase_url": "https://bingochat-52905.firebaseio.com",
+    "project_id": "bingochat-52905",
+    "storage_bucket": "bingochat-52905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935687268015:android:b874ab194350cd8f",
+        "android_client_info": {
+          "package_name": "com.example.fawad.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935687268015-k5la61g7mfqpp6276l8sckmu2hsf64rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fawad.chatapp",
+            "certificate_hash": "f201db948612192330e8da5cacf7b4270ef44d1e"
+          }
+        },
+        {
+          "client_id": "935687268015-2uohkn7n7ru15e2hh02cfeguoobpph43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPy-fRfG-let7TLyUCCkHhWjnS7xZQi4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935687268015-2uohkn7n7ru15e2hh02cfeguoobpph43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935687268015:android:677ba0cb949caae0",
+        "android_client_info": {
+          "package_name": "com.example.fawad.chatexperiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935687268015-uhrjd0hjfuuj40le2ndpd6bsj58dns1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fawad.chatexperiment",
+            "certificate_hash": "f201db948612192330e8da5cacf7b4270ef44d1e"
+          }
+        },
+        {
+          "client_id": "935687268015-2uohkn7n7ru15e2hh02cfeguoobpph43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPy-fRfG-let7TLyUCCkHhWjnS7xZQi4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935687268015-2uohkn7n7ru15e2hh02cfeguoobpph43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935687268015:android:e6125f27e124aaee",
+        "android_client_info": {
+          "package_name": "com.example.fawad.bingochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935687268015-9g7vdcse5sqverr3h22p1spl3uj82au8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fawad.bingochat",
+            "certificate_hash": "f201db948612192330e8da5cacf7b4270ef44d1e"
+          }
+        },
+        {
+          "client_id": "935687268015-2uohkn7n7ru15e2hh02cfeguoobpph43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPy-fRfG-let7TLyUCCkHhWjnS7xZQi4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935687268015-2uohkn7n7ru15e2hh02cfeguoobpph43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
